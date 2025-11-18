@@ -197,7 +197,7 @@ homelab-security-portfolio/
 
 ##  Security Philosophy
 
-> "Security is not a product, but a process. It's about building defense in depth, learning from incidents, and constantly adapting to new threats. My military background taught me discipline and attention to detail—qualities essential for effective cybersecurity."
+> "Security is not a product, but a process. It's about building defense in depth, learning from incidents, and constantly adapting to new threats. My military background taught me discipline and attention to detail, qualities essential for effective cybersecurity."
 
 ---
 
